@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="badges">
-  <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?logo=vk&logoColor=white" alt="VK Badge"/>
-  <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style" alt="Gmail Badge"/>
 </div>
