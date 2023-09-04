@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN3YTlyNTY5bjBuZjMyaWwwaGJhMGwwZmw0OWJ4MWc2ZzhnYmU0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hoKQifMan35m/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif" width="200"/>
   <div id="badges">
     <a href="t.me/DenisFedulov989">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -11,14 +11,15 @@
       <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=DonFalkone-del&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Привет
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Меня зовут Денис
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN3YTlyNTY5bjBuZjMyaWwwaGJhMGwwZmw0OWJ4MWc2ZzhnYmU0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hoKQifMan35m/giphy.gif" width="700" height="500"/>
 </div>
 
 ---
