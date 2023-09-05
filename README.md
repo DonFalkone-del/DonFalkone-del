@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="http://t-do.ru/DenisFedulov989">
+    <a href="https://t.me/DenisFedulov989">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://vk.com/idde777">
