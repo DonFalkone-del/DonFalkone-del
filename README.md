@@ -13,6 +13,8 @@
     <a href="https://wa.me/79612949409">
       <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
+    <a href="https://docs.google.com/document/d/1Gzd2WLcaIsl-QuMYNKf3B_qUNUg6HRHKZ9amuUVI5-o/edit?usp=sharing">
+      <img src="https://img.shields.io/badge/Резюме-blue?logo=GoogleDocs&logoColor=white" alt="GoogleDocs Badge"/>
   </div>
   <img src="https://komarev.com/ghpvc/?username=DonFalkone-del&style=flat-square&color=blue" alt=""/>
   <h1>
