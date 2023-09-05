@@ -10,12 +10,15 @@
     <a href="mailto:falkone989@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+    <a href="https://wa.me/79612949409">
+      <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=DonFalkone-del&style=flat-square&color=blue" alt=""/>
   <h1>
     Привет
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Меня зовут Денис
+    Меня зовут Денис Федулов, я геймдизайнер
   </h1>
 </div>
 <div align="center">
