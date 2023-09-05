@@ -16,7 +16,6 @@
     <a href="https://docs.google.com/document/d/1Gzd2WLcaIsl-QuMYNKf3B_qUNUg6HRHKZ9amuUVI5-o/edit?usp=sharing">
       <img src="https://img.shields.io/badge/Резюме-blue?logo=GoogleDocs&logoColor=white" alt="GoogleDocs Badge"/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=DonFalkone-del&style=flat-square&color=blue" alt=""/>
   <h1>
     Привет
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -29,8 +28,8 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :woman_technologist: Вот что я умею :
+- Оформление и ведение геймдизайнерской документации <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![GoogleDocs Badge](https://img.shields.io/badge/GoogleDocs-blue?style=flat&logo=GoogleDocs&logoColor=white)](https://drive.google.com/drive/folders/1gWdFCvG-7UfzutHx1N9uhzXasD0XdkOw?usp=drive_link)
 - :telescope: IвЂ™m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
