@@ -29,7 +29,7 @@
 ---
 
 ### :woman_technologist: Вот что я умею :
-- Оформление и ведение геймдизайнерской документации <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![GoogleDocs Badge](https://img.shields.io/badge/GoogleDocs-blue?style=flat&logo=GoogleDocs&logoColor=white)](https://drive.google.com/drive/folders/1kF3uklDAJWMTNyVRaLRtK43lsBYel24j?usp=sharing)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Оформление и ведение геймдизайнерской документации :  [![GoogleDocs Badge](https://img.shields.io/badge/GoogleDocs-blue?style=flat&logo=GoogleDocs&logoColor=white)](https://drive.google.com/drive/folders/1kF3uklDAJWMTNyVRaLRtK43lsBYel24j?usp=sharing)
 - :telescope: IвЂ™m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
