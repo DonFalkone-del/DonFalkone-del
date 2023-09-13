@@ -38,6 +38,8 @@
 
 - <img src="https://img.shields.io/badge/-orange?logo=blender&logoColor=black">  Моделирование в Blender : https://drive.google.com/drive/folders/1RQc5y2s8JhFiERSUYXz52zo2uDWEC-Ug?usp=sharing
 
+- <img src="https://img.shields.io/badge/-white?logo=Steam&logoColor=black">  Мод в Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2394108982
+
 ---
 
 ### :hammer_and_wrench: Инструменты с которыми знаком :
