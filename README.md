@@ -36,6 +36,8 @@
 
 - <img src="https://img.shields.io/badge/-white?logo=Unity&logoColor=black">   Прототипирование в Unity : https://disk.yandex.com.am/d/rPIkrR7Yqu1A8w
 
+- <img src="https://img.shields.io/badge/-orange?logo=blender&logoColor=black">  Моделирование в Blender : https://drive.google.com/drive/folders/1RQc5y2s8JhFiERSUYXz52zo2uDWEC-Ug?usp=sharing
+
 ---
 
 ### :hammer_and_wrench: Инструменты с которыми знаком :
@@ -52,7 +54,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DonFalkone-del&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
